@@ -1,1 +1,3 @@
 # gitPractice
+
+깃허브 연습을 해보자
